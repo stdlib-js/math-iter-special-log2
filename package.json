@@ -1,0 +1,36 @@
+{
+  "name": "@stdlib/math-iter-special-log2",
+  "version": "0.0.0",
+  "description": "Create an iterator which evaluates the binary logarithm for each iterated value.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-special-log2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "math",
+    "special function",
+    "special",
+    "function",
+    "math.log2",
+    "log2",
+    "binary",
+    "base 2",
+    "logarithm",
+    "log",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
